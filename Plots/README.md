@@ -1,1 +1,1 @@
-Analysis relevant plots.
+Report's plots are outside the folders.
